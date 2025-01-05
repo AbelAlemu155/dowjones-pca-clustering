@@ -1,8 +1,8 @@
-Principal Component Analysis and K-Means Clustering of Dow Jones Stocks
+## Principal Component Analysis and K-Means Clustering of Dow Jones Stocks
 
 Overview
 
-This data science project performs an in-depth analysis of one year of daily stock returns from the Dow Jones Industrial Average (DJIA). Using Principal Component Analysis (PCA) and K-Means clustering, we:
+This data science project performs an in-depth analysis of one year of daily stock returns from the Dow Jones Industrial Average (DJIA). Using Principal Component Analysis (PCA) and K-Means clustering, The undertakings are:
 
 Analyze and visualize the principal components to understand the underlying structure of the data.
 
